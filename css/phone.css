@@ -72,7 +72,7 @@ aside {
   padding-top: 60px;
 }
 
-aside .avader {
+aside .avatar {
   text-align: center;
   position: absolute;
   top: -110px;
@@ -80,7 +80,7 @@ aside .avader {
   padding-top: 5px;
 }
 
-aside .avader>img {
+aside .avatar>img {
   width: 180px;
   height: 180px;
   border-radius: 50%;
