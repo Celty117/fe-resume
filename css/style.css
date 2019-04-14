@@ -54,7 +54,10 @@ header {
 }
 
 header .resume-link {
-  display: none;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  display: block;
 }
 
 header>h1 {
