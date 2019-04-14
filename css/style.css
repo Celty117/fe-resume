@@ -53,13 +53,6 @@ header {
   position: relative;
 }
 
-header .resume-link {
-  position: absolute;
-  left: 10px;
-  top: 10px;
-  display: block;
-}
-
 header>h1 {
   color: #fff;
 }
@@ -166,6 +159,14 @@ section .item {
 .more .item .icon {
   width: 32px;
   height: 32px;
+}
+
+#resume > a{
+  color: #ff5700
+}
+
+#resume > a:hover{
+  color: #ff0000
 }
 
 /* main */
